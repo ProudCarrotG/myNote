@@ -20,7 +20,7 @@ void V(semaphore &s){
 
 ```
 
-```
+```cpp
 互斥关系：
 seamphore s = 1;
 
